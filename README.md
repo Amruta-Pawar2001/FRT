@@ -1,5 +1,7 @@
-## Future ready talent project by Raghav Shah
+## Future ready talent project by Amruta Pawar
 ## Azure hosted website link  : https://lemon-grass-00f321110.2.azurestaticapps.net/
+
+### Azure services used : Healthcare Bot and Static webApp.
 
 Here i create a Dentition web app with HealthBot. It is a demo web page for any organization who want to create there static web page for giving reference to their work, use bot services and host on Azure.
 
