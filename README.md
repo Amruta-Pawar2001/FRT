@@ -1,5 +1,5 @@
 ## Future ready talent project by Raghav Shah
-## Azure hosted website link  : 
+## Azure hosted website link  : https://lemon-grass-00f321110.2.azurestaticapps.net/
 
 Here i create a Dentition web app with HealthBot. It is a demo web page for any organization who want to create there static web page for giving reference to their work, use bot services and host on Azure.
 
@@ -15,4 +15,13 @@ Here i create a Dentition web app with HealthBot. It is a demo web page for any 
 
 
 ## azure portal screen shot
+
+![image](https://user-images.githubusercontent.com/87181408/214596189-6748bade-a222-401d-880a-278d3e9ec924.png)
+
+
+![image](https://user-images.githubusercontent.com/87181408/214596264-f56eec00-c2f9-4d2e-8422-4560665fad39.png)
+
+
+![image](https://user-images.githubusercontent.com/87181408/214596358-1871ac18-d34d-4ef6-8936-cca63336d80a.png)
+
 
